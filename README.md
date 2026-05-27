@@ -96,6 +96,11 @@ Beberapa prinsip yang terus dipakai dalam buku ini:
 
 ## Daftar Isi
 
+### Bagian 0 — Pendahuluan
+Mengenal OpenClaw sebagai sistem agentic AI, masalah yang diselesaikan, perbedaan dengan chatbot biasa, serta peran Gateway, runtime, workspace, session, tools, skills, memory, dan context.
+
+Link: [book/00-pendahuluan.md](book/00-pendahuluan.md)   
+
 ### Bagian 1 — Gambaran Besar OpenClaw
 Mengenal OpenClaw sebagai sistem agentic AI, masalah yang diselesaikan, perbedaan dengan chatbot biasa, serta peran Gateway, runtime, workspace, session, tools, skills, memory, dan context.
 
